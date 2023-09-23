@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    color: white;
+    background: url(./image/blackjack.webp);
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    color: goldenrod;
+}
+button{
+    color: green;
+    background-color: goldenrod;
+    border-style: none;
+    padding: .5rem 3rem;
+    border-radius: .3rem;
+    font-weight: bold;
+    display: block;
+    margin: .3rem auto;
+}
+#italic-el{
+   font-style: italic; 
+}
+.newcard{
+    padding: .5rem 3.4rem;
+}
